@@ -1,1 +1,1 @@
-# Sample Express Generator
+#  Express Generator
